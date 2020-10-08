@@ -1,0 +1,13 @@
+{
+    "statusCode": 200,
+    "body": {
+        "preciocompra": 15.5,
+        "idproducto": "ABC",
+        "marca": "saphir",
+        "esfera": 2.25,
+        "cilindro": 0.25,
+        "sucursal": "OAX",
+        "categoria": "micas",
+        "id": "ABC"
+    }
+}
